@@ -1,7 +1,7 @@
 # Hi, I'm Edgar 👋
 
 I'm a UI/UX Designer who started getting curious about what happens behind the scenes.  
-Now I'm learning backend development and trying to build things that actually work — not just look good.
+Now I'm learning backend development and trying to build things that actually work, not just look good.
 
 ---
 
@@ -17,6 +17,9 @@ Now I'm learning backend development and trying to build things that actually wo
 ## 🛠 Tech & Tools
 **Design**
 - Figma
+- Framer
+- Zeplin
+- Maze
 - Design Systems
 - UX Research & Usability
 
