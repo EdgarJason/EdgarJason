@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.jpg" width="250"/>
 # Hi, I'm Edgar 👋
 
 I'm a UI/UX Designer who started getting curious about what happens behind the scenes.  
