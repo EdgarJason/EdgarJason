@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/1a/17/11/1a17113357e09775f3855f982be25a50.gif)
+![banner](https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg)
 
 ---
 
